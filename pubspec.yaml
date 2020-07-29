@@ -1,0 +1,4 @@
+name: ChaosRelay
+
+dependencies:
+  hive: ^1.4.2
